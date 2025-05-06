@@ -1,0 +1,7 @@
+market,top_submarket,top_reason,comparative_submarket,comparative_reason
+austin,cbd,"High leasing (5964921 SF), rent $44/SF, safety 4.0",southwest,"Comparatively higher rent ($44/SF), lower leasing (2486598 SF), safety 4.0"
+houston,cbd,"High leasing (5398059 SF), rent $30/SF, safety 3.0",southwest/sugar land,"Comparatively higher rent ($30/SF), lower leasing (654045 SF), safety 5.0"
+los angeles,century city,"High leasing (7866276 SF), rent $46/SF, safety 5.0",burbank,"Comparatively higher rent ($45/SF), lower leasing (4095513 SF), safety nan"
+manhattan,grand central,"High leasing (30977868 SF), rent $77/SF, safety nan",columbus circle,"Comparatively higher rent ($77/SF), lower leasing (14678040 SF), safety nan"
+philadelphia,west market,"High leasing (5321646 SF), rent $30/SF, safety nan",media / newtown square,"Comparatively higher rent ($30/SF), lower leasing (999000 SF), safety nan"
+san francisco,financial district south,"High leasing (11020293 SF), rent $71/SF, safety nan",soma,"Comparatively higher rent ($71/SF), lower leasing (2212407 SF), safety 2.0"

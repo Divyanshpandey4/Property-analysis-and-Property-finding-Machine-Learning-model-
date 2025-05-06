@@ -1,0 +1,7 @@
+market,top_submarket,top_leasing_sf,top_rent,top_safety,top_internal_class,top_transaction_type,top_space_type,comparative_submarket,comp_leasing_sf,comp_rent,comp_safety,comp_internal_class,comp_transaction_type,comp_space_type
+austin,cbd,5964921,44,4.0,A,new,relet,southwest,2486598,44,4.0,A,new,relet
+houston,cbd,5398059,30,3.0,A,new,relet,southwest/sugar land,654045,30,5.0,O,new,relet
+los angeles,century city,7866276,46,5.0,A,new,relet,burbank,4095513,45,,A,new,relet
+manhattan,grand central,30977868,77,,A,new,relet,columbus circle,14678040,77,,A,relocation,relet
+philadelphia,west market,5321646,30,,A,new,unknown,media / newtown square,999000,30,,A,new,relet
+san francisco,financial district south,11020293,71,,A,new,relet,soma,2212407,71,2.0,O,new,relet
